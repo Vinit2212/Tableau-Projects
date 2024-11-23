@@ -20,6 +20,12 @@ Feel free to explore the contents and dive into the datasets and analyses to bet
 To use the Tableau dashboards:
 
 1. Clone the repository to your local machine using the following command:
+2. Navigate to the Tableau Workbooks folder.
+3. Open the desired workbook using Tableau Desktop.
+4. Explore the visualizations, interact with the data, and derive insights from the analyses presented.
 
-   ```bash
-   git clone <repository_url>
+## Contributing
+
+Contributions to this repository are welcome! If you have created interesting Tableau dashboards and would like to share them, feel free to open a pull request. Ensure that your contributions align with the purpose of the repository and provide clear documentation of the insights derived from your analyses.
+
+If you find any issues or have suggestions for improvements, please open an issue to discuss them.
